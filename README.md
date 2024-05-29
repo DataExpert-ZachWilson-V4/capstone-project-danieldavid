@@ -25,8 +25,12 @@ Potential Metrics
 ## Conceptual Data Model
 ![Alt text](./conceptual_model.png)
 
-## Implementation (Initial & Future)
+## Implementation
 1. Data Ingestion - To collect and integrate data from various job posting sources
 2. Data Cleaning and Modeling - To transform and optimize data into dimensional and fact tables using a star schema.
 3. Analytics and Insights - To derive insights from the job posting data to enable insights for job seekers looking into the health of a company through their external recruitment cycles.
+
+## Future 
+1. The benefits of this type of visualization for people to view companies' historical job posting trends is only realized when enough data is collected over time. The closer the dataset is to a snapshot, the less meaningful the insights generated will be.
+2. Potentially add a comparison of public sector vs private sector when comparing identical jobs.
 
